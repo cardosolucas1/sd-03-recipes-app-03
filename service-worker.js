@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sd-03-recipes-app-03/precache-manifest.ed59e847915687e3a36ba931936edd7a.js"
+  "/sd-03-recipes-app-03/precache-manifest.30685dddbf6f83b19bf2313a8b9139a7.js"
 );
 
 self.addEventListener('message', (event) => {
