@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3857b6e87d6b31704085925657bdad27",
+    "revision": "6ffd4fb685eaf15f4ce359f19553f761",
     "url": "/sd-03-recipes-app-03/index.html"
   },
   {
-    "revision": "7af211e133fc8c22e4d2",
+    "revision": "14f1be99195384908203",
     "url": "/sd-03-recipes-app-03/static/css/main.f4a718d9.chunk.css"
   },
   {
-    "revision": "7170cac30bfe370addbc",
-    "url": "/sd-03-recipes-app-03/static/js/2.2c75cfa1.chunk.js"
+    "revision": "d38f00930a29ccc4d11f",
+    "url": "/sd-03-recipes-app-03/static/js/2.97635658.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/sd-03-recipes-app-03/static/js/2.2c75cfa1.chunk.js.LICENSE.txt"
+    "url": "/sd-03-recipes-app-03/static/js/2.97635658.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7af211e133fc8c22e4d2",
-    "url": "/sd-03-recipes-app-03/static/js/main.5c8c8bd7.chunk.js"
+    "revision": "14f1be99195384908203",
+    "url": "/sd-03-recipes-app-03/static/js/main.ff1682f9.chunk.js"
   },
   {
     "revision": "74e09fdf68f4f7bd7c66",
